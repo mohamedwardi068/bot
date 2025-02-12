@@ -100,7 +100,7 @@ body {
 }
 
 .chat-body::-webkit-scrollbar-thumb {
-    background-color: #B89EFF;
+    background-color: #004d5a;
     border-radius: 5px;
 }
 
